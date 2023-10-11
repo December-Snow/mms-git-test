@@ -1,0 +1,17 @@
+h3{
+    background-color:blue;
+   width:100%;
+   color:aliceblue;
+    
+}
+.tbody{
+    background-color:lightgrey;
+    width: 25%;
+    
+}
+li{
+    color:darkorchid;
+}
+ul{
+    background-color:lightgrey;
+}

@@ -1,0 +1,29 @@
+
+body{
+  background-image: url('images/code.jpg');
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: cover;
+}
+table{
+	width:50%;
+     } 
+
+th,td{
+    border: 2px solid black;
+    border-radius: 10px;
+    border-color: #96D4D4;
+}
+tr:nth-child(even) {
+    background-color: #D6EEEE;
+  }
+th{
+    background-color: rgb(234, 0, 255);
+
+}
+tr:nth-child(odd) {
+    background-color:green;
+  }
+p{
+  color:chartreuse;
+}
